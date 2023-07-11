@@ -1,0 +1,229 @@
+*{
+    margin: 0px;
+    color: white;
+    font-family:'Montserrat', sans-serif;
+   
+}
+.clock{
+    height: 105vh;
+    width: 100%;
+    background-image: url(girl.jpg);
+    background-size: cover;
+}
+.minor{
+    height: 105vh;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+.ubunifu{
+    height: 105vh;
+    width: 100%;
+    
+ 
+}
+.ubunifu{
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+   height: 70px;
+ 
+
+}
+.row li{
+    list-style-type: none;
+    float: left;
+    margin: 0px 30px;
+   
+}
+li a{
+    text-decoration: none;
+}
+.ubunifu img{
+    margin: 0px 60px;
+}
+#play{
+    color:black;
+    font-weight: bold;
+    background-color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+#play:hover{
+    background-color:#737373;
+    color: white;
+}
+.future{
+    display: flex;
+    justify-content: center;
+    margin: 60px;
+   
+ 
+}
+.cup h1{
+    font-size: 100px;
+
+}
+.cup h6{
+    font-size: 20px;
+}
+.cup button{
+    background-color: rgb(247, 67, 67);
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border: 4px;
+    padding: 15px;
+    border-radius: 30px;
+    margin: 30px; 
+   
+}
+.cup button:hover{
+    background-color:#737373;
+}
+.bottle{
+    height: 130vh;
+    width: 100%;
+    background-color:white;
+    margin-top: 170px;
+    display: flex;
+   
+}
+.mine{
+    height: 100vh;
+    width: 45%;
+    margin: 50px;
+   font-family: 'Montserrat', sans-serif;
+}
+.mine h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+.mine p{
+    font-size: 14px;
+    color: #6f6f6f;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px;
+}
+.mine button{
+    margin: 20px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(59, 78, 244);
+    color: white;
+    font-size: 12px;
+    border: none;
+    padding: 13px;
+    border-radius: 30px;
+    margin: 30px; 
+}
+.mine button:hover{
+    color:black;
+}
+.your{
+    width: 50%;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    
+    
+   
+}
+.short{
+    width: 55%;
+    height: 40%;
+    
+    background-color: #ff5c75;
+    text-align: center;
+    align-content: space-between;
+    font-size: 14px;
+    border-radius: 15px;
+}
+.cap{
+    width: 55%;
+    height: 40%;
+    margin-top: 30px;
+    background-color:#337ab7;
+    text-align: center;
+    align-content: space-between;
+    font-size: 14px;
+    border-radius: 15px;
+
+}
+.mars{
+    width: 50%;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+ 
+}
+.earth{
+    width: 55%;
+    height: 40%;
+    margin-top: 50px;
+    background-color:#43d39e;    
+    text-align: center;
+    align-content: space-between;
+    font-size: 14px;
+    border-radius: 15px;
+}
+.venus{
+    width: 55%;
+    height: 40%;
+    margin-top: 50px;
+    background-color:#ffbe0b;    
+    text-align: center;
+    align-content: space-between;
+    font-size: 14px;
+    border-radius: 15px;
+}
+.mkwaju{
+    height: 95vh;
+    width: 100%;
+    display: flex;
+     
+}
+.egg{
+    width: 50%;
+}
+.toast{
+    width: 50%; 
+ 
+}
+.toast img{
+    float: right;
+}
+.toast h4{
+    color:#5bc0de;
+    font-weight: 600;
+    font-size: 40px;
+    margin-top: 45px;
+    margin: 25px;
+}
+.toast p{
+    color: #6f6f6f;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 25px;
+}
+.toast button{
+    
+    font-family: 'Montserrat', sans-serif;
+    border-color: #ff214f;
+    color: white;
+    background-color: #ff214f;
+    font-size: 12px;
+    padding: 14px;
+    border-radius: 40px;
+    margin: 0px 90px; 
+}
+.toast button:hover{
+    color: #ff214f;
+    background-color: transparent;
+}
+.stool h3{
+    font-size: 48px;
+    line-height: 54px;
+}
+.stool{
+    margin: 50px;
+}
